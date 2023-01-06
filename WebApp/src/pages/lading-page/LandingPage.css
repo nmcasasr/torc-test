@@ -1,0 +1,11 @@
+.book-cards-wrapper {
+    display: flex;
+    flex-flow: row wrap;
+    align-content: space-between;
+    justify-content: space-between;
+    padding: 25px;
+}
+
+.card {
+    margin-top: 25px;
+}

@@ -1,0 +1,12 @@
+.bar-content {
+    display:flex;
+    padding: 20px;
+}
+
+.category-select {
+    height: 35px;
+}
+
+.input-book {
+    width: 100%;
+}
